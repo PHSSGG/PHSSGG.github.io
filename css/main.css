@@ -399,8 +399,8 @@ Header
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   display: flex;
-  width: 280px;  
-  height: 280px; 
+  width: auto;
+  height: auto;
   margin: auto;
   margin-bottom: 80px;
 }
